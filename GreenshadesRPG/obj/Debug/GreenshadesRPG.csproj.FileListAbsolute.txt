@@ -1,0 +1,6 @@
+c:\users\lpadron\documents\visual studio 2015\Projects\GreenshadesRPG\GreenshadesRPG\bin\Debug\GreenshadesRPG.exe.config
+c:\users\lpadron\documents\visual studio 2015\Projects\GreenshadesRPG\GreenshadesRPG\bin\Debug\GreenshadesRPG.exe
+c:\users\lpadron\documents\visual studio 2015\Projects\GreenshadesRPG\GreenshadesRPG\bin\Debug\GreenshadesRPG.pdb
+c:\users\lpadron\documents\visual studio 2015\Projects\GreenshadesRPG\GreenshadesRPG\obj\Debug\GreenshadesRPG.csprojResolveAssemblyReference.cache
+c:\users\lpadron\documents\visual studio 2015\Projects\GreenshadesRPG\GreenshadesRPG\obj\Debug\GreenshadesRPG.exe
+c:\users\lpadron\documents\visual studio 2015\Projects\GreenshadesRPG\GreenshadesRPG\obj\Debug\GreenshadesRPG.pdb
